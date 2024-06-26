@@ -19,10 +19,17 @@ MusicGenAI is an innovative project that combines image analysis, music generati
    ```sh
    python -m venv venv
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-4. Install the required packages:
+3. Install the required packages:
    ```sh
    pip install -r requirements.txt
-6. Run the development server:
+4. Ensure the database is setup well by running the following command in the project directory:
+   ```sh
+   python manage.py migrate
+5. Download the data files, either for hindi or english dataset from
+   ```sh
+   https://drive.google.com/drive/folders/1k3eUSBngBh0PYAet40iKtCOG2Fdy5PA2?usp=sharing
+6. Paste the .obj files in the data folder(you should paste 2 files, either for hindi or english).
+7. Run the development server:
    ```sh
    python manage.py runserver
 ## Usage
