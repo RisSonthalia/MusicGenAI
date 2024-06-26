@@ -12,11 +12,19 @@ MusicGenAI is an innovative project that combines image analysis, music generati
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/yourusername/MusicGenAI.git`
-   `cd MusicGenAI`
+   ```sh
+   git clone https://github.com/yourusername/MusicGenAI.git
+   cd MusicGenAI
 2. Create a virtual environment and activate it:
-3. Install the required packages:
-5. Run the development server:
+   ```sh
+   python -m venv venv
+   source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+4. Install the required packages:
+   ```sh
+   pip install -r requirements.txt
+6. Run the development server:
+   ```sh
+   python manage.py runserver
 ## Usage
 
 1. Navigate to `http://localhost:8000` in your web browser.
