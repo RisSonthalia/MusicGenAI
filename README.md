@@ -44,16 +44,31 @@ MusicGenAI is an innovative project that combines image analysis, music generati
 
 Our music recommendation system leverages a dataset of over 100,000 songs from top 100 billboards since 1958. The process involves several key steps:
 
-1. Data Extraction and Preprocessing:
-- Dataset creation using Genius and Spotify APIs
-- Rigorous data cleaning to ensure consistency in song structures
+####Dataset
+1. Data Source
+- Song lyrics scraped from Genius API
+- Song features from Spotify API
+- Song list based on Wasabi dataset
 
-2. Model Development:
+2. Dataset Composition
+- Corpus size: 100,000 songs
+- Selection criteria: 
+  - Songs with Spotify ID
+  - Artists in the top 100 billboards since 1958
+
+3. Dataset Cleaning
+- Filtered from ~2 million songs based on artist popularity
+- Song attributes analyzed: danceability, energy, speechiness, acousticness, liveness, and valence
+- Good distribution of mood range, with normally distributed song attributes
+
+#### Information Retrieval Model
+
+1. Model Development:
 - Feature Engineering: We employ a pre-trained RoBERTa model within the Sentence Transformer framework to transform lyrics into dense vectors for semantic analysis.
 - Semantic Similarity: Cosine distance is used in a K-Nearest Neighbor (KNN) model to find songs with lyrics most similar to user queries.
 - Fine-Tuning: The model's understanding of lyrics is improved by fine-tuning with paired lyrics and annotations from the Genius community.
 
-3. Results Ranking and Evaluation:
+2. Results Ranking and Evaluation:
 - Score Calibration: A ranking algorithm emphasizes highly relevant lyrics while penalizing less relevant ones to enhance recommendation quality.
 - Model Comparison: Performance of pre-trained and fine-tuned models is compared, noting potential overfitting in the fine-tuned model.
 
