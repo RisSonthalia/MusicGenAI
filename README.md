@@ -75,10 +75,6 @@ This integrated system bridges the gap between visual inputs and musical outputs
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - Course Project for DA213 (Python Lab)
