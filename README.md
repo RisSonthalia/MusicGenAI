@@ -9,6 +9,18 @@ MusicGenAI is an innovative project that combines image analysis, music generati
 - Song recommendation based on lyrical similarity using RoBERTa and KNN
 - Web interface built with Django
 
+## Web Interface Screenshots
+
+Here are some screenshots of the MusicGenAI web interface:
+
+![Home Page](musicgen_Images/home.png)
+
+
+![gen](musicgen_Images/gen.png)
+
+
+![recomm Page](musicgen_Images/recommend.png)
+
 ## Installation
 
 1. Clone the repository:
