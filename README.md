@@ -1,4 +1,4 @@
-# MusicGenAI: AI-Powered Image-to-Music Generation and Recommendation
+# MusicGenAI: Image-to-Music Generation and Recommendation
 
 MusicGenAI is an innovative project that combines image analysis, music generation, and song recommendation using advanced AI techniques. This system takes an input image, generates a textual caption, creates original music based on that caption, and recommends similar songs from a vast database.
 
