@@ -23,7 +23,7 @@ Here are some screenshots of the MusicGenAI web interface:
 
 ### Recommendations
 
-![Alt text](assets/recommendation.png)
+![Alt text](musicgen_Images/recommendation.png)
 
 ## Results
 
@@ -31,7 +31,7 @@ Here are some screenshots of the MusicGenAI web interface:
 
 #### Input
 
-![Alt text](assets/peace.jpeg)
+![Alt text](musicgen_Images/peace.jpeg)
 
 #### Result
 
@@ -41,11 +41,11 @@ https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/5e00901b-7d5e-4721-
 
 
 
-[Download the same audio](assets/peace.wav)
+[Download the same audio](musicgen_Images/peace.wav)
 
 #### Input
 
-![Alt text](assets/anime.jpg)
+![Alt text](musicgen_Images/anime.jpg)
 
 #### Result
 
@@ -54,13 +54,13 @@ https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/5e00901b-7d5e-4721-
 https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/c65c1f53-f782-4ef4-af99-4a868e4a2334
 
 
-[Download the same audio](assets/anime.wav)
+[Download the same audio](musicgen_Images/anime.wav)
 
 ### Image to Song Recommendation
 
 #### Input
 
-![Alt text](assets/cloud.jpg)
+![Alt text](musicgen_Images/cloud.jpg)
 
 #### Result
 
