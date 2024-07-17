@@ -12,7 +12,7 @@ MusicGenAI is an innovative project that combines image analysis, music generati
 ## Web Interface Screenshots
 
 Here are some screenshots of the MusicGenAI web interface:
-
+### Homepage
 ![Home Page](musicgen_Images/home.png)
 
 
@@ -20,6 +20,75 @@ Here are some screenshots of the MusicGenAI web interface:
 
 
 ![recomm Page](musicgen_Images/recommend.png)
+
+### Recommendations
+
+![Alt text](assets/recommendation.png)
+
+## Results
+
+### Image to Audio Generation
+
+#### Input
+
+![Alt text](assets/peace.jpeg)
+
+#### Result
+
+
+
+https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/5e00901b-7d5e-4721-99df-45a6f3428dc3
+
+
+
+[Download the same audio](assets/peace.wav)
+
+#### Input
+
+![Alt text](assets/anime.jpg)
+
+#### Result
+
+
+
+https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/c65c1f53-f782-4ef4-af99-4a868e4a2334
+
+
+[Download the same audio](assets/anime.wav)
+
+### Image to Song Recommendation
+
+#### Input
+
+![Alt text](assets/cloud.jpg)
+
+#### Result
+
+Badal Pe Paon Hain by Hema Sardesai
+
+
+
+https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/ac642463-0d3c-4941-928a-f36b32e599ca
+
+
+
+[Download the same audio](assets/cloud.mp3)
+
+#### Input
+
+![Alt text](assets/christmas.jpg)
+
+#### Result
+
+All I Want For Christmas Is You
+
+
+
+https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/7852dcfa-535a-4128-a067-6a44168bd4c9
+
+
+
+[Download the same audio](assets/christmas.mp3)
 
 ## Installation
 
