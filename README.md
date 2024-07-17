@@ -72,11 +72,11 @@ https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/ac642463-0d3c-4941-
 
 
 
-[Download the same audio](assets/cloud.mp3)
+[Download the same audio](musicgen_Images/cloud.mp3)
 
 #### Input
 
-![Alt text](assets/christmas.jpg)
+![Alt text](musicgen_Images/christmas.jpg)
 
 #### Result
 
@@ -88,7 +88,7 @@ https://github.com/CrypticOwl5503/MusicGenAI/assets/92156713/7852dcfa-535a-4128-
 
 
 
-[Download the same audio](assets/christmas.mp3)
+[Download the same audio](musicgen_Images/christmas.mp3)
 
 ## Installation
 
